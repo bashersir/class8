@@ -17,7 +17,7 @@ var questionBank= [
     },
     {
         question : 'Sucking out blood in this passage is used to cure pains of ----.',
-        option : ['aged people','young people','the toddlers ','the infants'],
+        option : ['aged people','young people','the toddlers','the infants'],
         answer : 'aged people'
     },
     {
@@ -32,7 +32,7 @@ var questionBank= [
     },
     {
         question : 'The gypsy people become busy with fishing in ----.',
-        option : ['winter ','summer','monsoon ','autumn'],
+        option : ['winter','summer','monsoon','autumn'],
         answer : 'monsoon'
     }
 ]
