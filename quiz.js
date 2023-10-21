@@ -1,17 +1,17 @@
 //Question bank
 var questionBank= [
     {
-        question : '(a) River gypsies are the people who -----.',
+        question : 'River gypsies are the people who -----.',
         option : ['stay permanently at a place','travel from one place to another for pleasure','move from one place to another by boat to earn their livelihood','roam around on horse-back'],
         answer : 'move from one place to another by boat to earn their livelihood'
     },
     {
-        question : "(b) 'Monsoon' in the passage refers to ----.",
+        question : 'Monsoon in the passage refers to ----.',
         option : ['summer','winter ','autumn ','rainy season'],
         answer : 'rainy season'
     },
     {
-        question : "How many months do the river gypsies move around in the rivers and waters?",
+        question : 'How many months do the river gypsies move around in the rivers and waters?',
         option : ['5 months','6 months','7 months','8 months'],
         answer : '6 months'
     },
