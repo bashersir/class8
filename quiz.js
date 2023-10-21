@@ -6,29 +6,29 @@ var questionBank= [
         answer : 'move from one place to another by boat to earn their livelihood'
     },
     {
-        question : 'Where does most renewable energy come from?',
-        option : ['from the moon','from the sun','from the earth','from the ocean'],
-        answer : 'from the sun'
+        question : "(b) 'Monsoon' in the passage refers to ----.",
+        option : ['summer','winter ','autumn ','rainy season'],
+        answer : 'rainy season'
     },
     {
-        question : "What does the phrase 'run out' mean in the above passage?",
-        option : ['finish','start','end','begin'],
-        answer : 'finish'
+        question : "How many months do the river gypsies move around in the rivers and waters?",
+        option : ['5 months','6 months','7 months','8 months'],
+        answer : '6 months'
     },
     {
-        question : '---is not renewable source of energy.',
-        option : ['sun','moon','hydro-carbon','sea'],
-        answer : 'hydro-carbon'
+        question : 'Sucking out blood in this passage is used to cure pains of ----.',
+        option : ['aged people','young people','the toddlers ','the infants'],
+        answer : 'aged people'
     },
     {
-        question : 'The burning of ---- contaminates our environment.',
-        option : ['oil','coal','gas','all the options'],
-        answer : 'all the options'
+        question : 'The magical power of the gypsies is believed by many ----.',
+        option : ['rural people','urban people','educated people','modern people'],
+        answer : 'rural people'
     },
     {
-        question : 'Modern day wind turbines produce---',
-        option : ['steam','vapour','flow','electrcity'],
-        answer : 'electrcity'
+        question : 'The lifestyle of river gypsies is ---.,
+        option : ['gorgeous ','nomadic ','conventional','fashionable'],
+        answer : 'nomadic'
     },
     {
         question : 'What is geothermal energy?',
