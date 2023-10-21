@@ -27,7 +27,7 @@ var questionBank= [
     },
     {
         question : 'The lifestyle of river gypsies is ---.',
-        option : ['gorgeous ','nomadic ','conventional','fashionable'],
+        option : ['gorgeous','nomadic','conventional','fashionable'],
         answer : 'nomadic'
     },
     {
