@@ -31,9 +31,9 @@ var questionBank= [
         answer : 'nomadic'
     },
     {
-        question : 'What is geothermal energy?',
-        option : ['heat from deep within the earth','heat from deep within the sky','flows downhill','hydroelectric energy'],
-        answer : 'heat from deep within the earth'
+        question : 'The gypsy people become busy with fishing in ----.',
+        option : ['winter ','summer','monsoon ','autumn'],
+        answer : 'monsoon'
     }
 ]
 
