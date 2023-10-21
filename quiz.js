@@ -13,7 +13,7 @@ var questionBank= [
     {
         question : 'How many months do the river gypsies move around in the rivers and waters?',
         option : ['5 months','6 months','7 months','8 months'],
-        answer : '6 months'
+        answer : '8 months'
     },
     {
         question : 'Sucking out blood in this passage is used to cure pains of ----.',
