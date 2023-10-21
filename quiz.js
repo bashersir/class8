@@ -32,7 +32,7 @@ var questionBank= [
     },
     {
         question : 'The gypsy people become busy with fishing in ----.',
-        option : ['winter','summer','monsoon','autumn'],
+        option : ['winter','monsoon','summer','autumn'],
         answer : 'monsoon'
     }
 ]
