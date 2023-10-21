@@ -26,7 +26,7 @@ var questionBank= [
         answer : 'rural people'
     },
     {
-        question : 'The lifestyle of river gypsies is ---.,
+        question : 'The lifestyle of river gypsies is ---.',
         option : ['gorgeous ','nomadic ','conventional','fashionable'],
         answer : 'nomadic'
     },
