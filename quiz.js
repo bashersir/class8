@@ -7,7 +7,7 @@ var questionBank= [
     },
     {
         question : 'Close refers to -----',
-        option : ['open','relative','stranger ','intimate'],
+        option : ['open','relative','stranger','intimate'],
         answer : 'relative'
     },
     {
