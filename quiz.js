@@ -18,7 +18,7 @@ var questionBank= [
     {
         question : 'Who brings form for all of them?',
         option : ["Mita's uncle","Mita's parents","Mita's mother",'None of them'],
-        answer : "None of them"
+        answer : 'None of them'
     },
     {
         question : 'What does the word interesting mean?',
