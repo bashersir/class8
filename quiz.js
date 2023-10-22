@@ -1,39 +1,39 @@
 //Question bank
 var questionBank= [
     {
-        question : 'River gypsies are the people who -----.',
-        option : ['stay permanently at a place','travel from one place to another for pleasure','move from one place to another by boat to earn their livelihood','roam around on horse-back'],
-        answer : 'move from one place to another by boat to earn their livelihood'
+        question : 'At Hajrat Shahjalal International Airport. Mita was-----',
+        option : ['afraid','excited','sad','angry'],
+        answer : 'excited'
     },
     {
-        question : 'Monsoon in the passage refers to ----.',
-        option : ['summer','winter ','autumn ','rainy season'],
-        answer : 'rainy season'
+        question : 'Close refers to -----',
+        option : ['open','relative ','stranger ','intimate'],
+        answer : 'relative'
     },
     {
-        question : 'How many months do the river gypsies move around in the rivers and waters?',
-        option : ['5 months','6 months','7 months','8 months'],
-        answer : '8 months'
+        question : "Who will stamp Mita's passport",
+        option : ["Zara's uncle",'Zara','Her uncle','The immigration officer'],
+        answer : 'The immigration officer'
     },
     {
-        question : 'Sucking out blood in this passage is used to cure pains of ----.',
-        option : ['aged people','young people','the toddlers','the infants'],
-        answer : 'aged people'
+        question : 'Who brings form for all of them?',
+        option : ["Mita's uncle","Mita's parents","Mita's mother",'None of them'],
+        answer : "Mita's uncle"
     },
     {
-        question : 'The magical power of the gypsies is believed by many ----.',
-        option : ['rural people','urban people','educated people','modern people'],
-        answer : 'rural people'
+        question : 'What does the word interesting mean?',
+        option : ['boring','valuable','attractive','dreadful'],
+        answer : 'attractive'
     },
     {
-        question : 'The lifestyle of river gypsies is ---.',
-        option : ['gorgeous','nomadic','conventional','fashionable'],
+        question : 'Zara came with her---',
+        option : ['aunt','uncle','parents','sister'],
         answer : 'nomadic'
     },
     {
-        question : 'The gypsy people become busy with fishing in ----.',
-        option : ['winter','monsoon','summer','autumn'],
-        answer : 'monsoon'
+        question : 'There were ---- persons to visit Thailand',
+        option : ['three','four','five','six'],
+        answer : 'four'
     }
 ]
 
