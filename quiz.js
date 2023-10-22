@@ -1,12 +1,12 @@
 //Question bank
 var questionBank= [
     {
-        question : 'At Hajrat Shahjalal International Airport. Mita was-----',
+        question : 'At Hajrat Shahjalal International Airport, Mita was-----',
         option : ['afraid','excited','sad','angry'],
         answer : 'excited'
     },
     {
-        question : 'Close refers to -----',
+        question : "'Close' refers to -----",
         option : ['open','relative','stranger','intimate'],
         answer : 'relative'
     },
@@ -21,7 +21,7 @@ var questionBank= [
         answer : "Mita's uncle"
     },
     {
-        question : 'What does the word interesting mean?',
+        question : "What does the word 'interesting' mean?",
         option : ['boring','valuable','attractive','dreadful'],
         answer : 'attractive'
     },
