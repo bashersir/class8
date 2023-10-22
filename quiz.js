@@ -28,7 +28,7 @@ var questionBank= [
     {
         question : 'Zara came with her---',
         option : ['aunt','uncle','parents','sister'],
-        answer : 'nomadic'
+        answer : 'uncle'
     },
     {
         question : 'There were ---- persons to visit Thailand',
