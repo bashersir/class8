@@ -18,7 +18,7 @@ var questionBank= [
     {
         question : 'Who brings form for all of them?',
         option : ["Mita's uncle","Mita's parents","Mita's mother",'None of them'],
-        answer : 'None of them'
+        answer : "Mita's uncle"
     },
     {
         question : 'What does the word interesting mean?',
@@ -28,7 +28,7 @@ var questionBank= [
     {
         question : 'Zara came with her---',
         option : ['aunt','uncle','parents','sister'],
-        answer : 'uncle'
+        answer : 'parents'
     },
     {
         question : 'There were ---- persons to visit Thailand',
