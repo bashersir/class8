@@ -1,39 +1,39 @@
 //Question bank
 var questionBank= [
     {
-        question : 'At Hajrat Shahjalal International Airport, Mita was-----',
-        option : ['afraid','excited','sad','angry'],
-        answer : 'excited'
+        question : 'The use of many spices – made Bangladeshi cuisine rich.',
+        option : ['have','has','is','are'],
+        answer : 'has'
     },
     {
-        question : "'Close' refers to -----",
-        option : ['open','relative','stranger','intimate'],
-        answer : 'relative'
+        question : 'Our foods are very -.',
+        option : ['bitter','sour','pungent','tasty'],
+        answer : 'tasty'
     },
     {
-        question : "Who will stamp Mita's passport",
-        option : ["Zara's uncle",'Zara','Her uncle','The immigration officer'],
-        answer : 'The immigration officer'
+        question : 'Boiled rice is our – food.',
+        option : ['main','popular','unpopular','favourite'],
+        answer : 'main'
     },
     {
-        question : 'Who brings form for all of them?',
-        option : ["Mita's uncle","Mita's parents","Mita's mother",'None of them'],
-        answer : "Mita's uncle"
+        question : 'Fish is the – source of protein.',
+        option : ['only','main','subsidiary','minor'],
+        answer : 'main'
     },
     {
-        question : "What does the word 'interesting' mean?",
-        option : ['boring','valuable','attractive','dreadful'],
-        answer : 'attractive'
+        question : '– is a very popular fish to our people.',
+        option : ['Carp','Rui','Hilsha','Magur'],
+        answer : 'Hilsha'
     },
     {
-        question : 'Zara came with her---',
-        option : ['aunt','uncle','parents','sister'],
-        answer : 'parents'
+        question : "Choose the synonym of the word 'peace'.",
+        option : ['happiness','chaos','noise','conflict'],
+        answer : 'happiness'
     },
     {
-        question : 'There were ---- persons to visit Thailand',
-        option : ['three','four','five','six'],
-        answer : 'four'
+        question : "(g) Choose the synonym of the word 'Balanced'.",
+        option : ['expensive food','diet','delicious','in equal or proper amounts'],
+        answer : 'in equal or proper amounts'
     }
 ]
 
